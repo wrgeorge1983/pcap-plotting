@@ -2,16 +2,16 @@
 IPython notebooks, modules for pcap analysis, plotting
 
 ##Quick instruction for using nbviewer to view these
-Derived from [watsonic's answer on stackoverflow](http://stackoverflow.com/questions/19744286/hosting-ipython-notebooks-on-github)
-> The trick is to head to your file's page on github and then click on the "Raw" button:
-> Then copy the url (minus the protocol string "http://"), and prepend it with "http://nbviewer.ipython.org/urls/"
-> So for example, for the IPython notebook:
-> https://github.com/wrgeorge1983/pcap-plotting/blob/master/pcap.ipynb
-> Click on "Raw" to get the URL:
-> https://raw.githubusercontent.com/wrgeorge1983/pcap-plotting/master/pcap.ipynb
-> Form the URL:
-> http://nbviewer.ipython.org/urls/raw.githubusercontent.com/wrgeorge1983/pcap-plotting/master/pcap.ipynb
-> voila!
+Derived from [watsonic's answer on stackoverflow](http://stackoverflow.com/questions/19744286/hosting-ipython-notebooks-on-github)  
+> The trick is to head to your file's page on github and then click on the "Raw" button:  
+> Then copy the url (minus the protocol string "http://"), and prepend it with "http://nbviewer.ipython.org/urls/"  
+> So for example, for the IPython notebook:  
+> https://github.com/wrgeorge1983/pcap-plotting/blob/master/pcap.ipynb  
+> Click on "Raw" to get the URL:  
+> https://raw.githubusercontent.com/wrgeorge1983/pcap-plotting/master/pcap.ipynb  
+> Form the URL:  
+> http://nbviewer.ipython.org/urls/raw.githubusercontent.com/wrgeorge1983/pcap-plotting/master/pcap.ipynb  
+> voila!  
 
 
 
