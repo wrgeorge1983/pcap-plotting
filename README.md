@@ -17,7 +17,8 @@ Derived from [watsonic's answer on stackoverflow](http://stackoverflow.com/quest
 
 ## pcap.ipynb
 Initially derived from [Dirk Loss' example here](dirk-loss.de/ipython-pandas-2013-05/pcap2.ipynb)
-* Represents about as far as I can take this without understanding what's really happening :)
+* Early example, need to merge example from other workstation.
+* [nbviewer link](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/wrgeorge1983/pcap-plotting/master/pcap.ipynb)  
 
 
 ## relevant projects
