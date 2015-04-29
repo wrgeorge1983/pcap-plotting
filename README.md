@@ -23,7 +23,8 @@ Initially derived from [Dirk Loss' example here](dirk-loss.de/ipython-pandas-201
 
 ## pandas-testing.ipynb
 Tests to determine best method of dataframe manipulation to what we want.
-* 	[nbviewer link](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/wrgeorge1983/pcap-plotting/master/pandas-testing.ipynb)
+* 	[nbviewer link](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/wrgeorge1983/pcap-plotting/master/pandas-testing.ipynb)  
+
 ## relevant projects
 I can't decide whether or not these projects are relevant or not.  Best to document them and figure it out later, rather than just idly thinking about it until I forget where they are.
 *	[Wireshark/TShark](https://www.wireshark.org/docs/man-pages/tshark.html)
