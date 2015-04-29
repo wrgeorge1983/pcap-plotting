@@ -22,6 +22,11 @@ Initially derived from [Dirk Loss' example here](dirk-loss.de/ipython-pandas-201
 
 ## relevant projects
 I can't decide whether or not these projects are relevant or not.  Best to document them and figure it out later, rather than just idly thinking about it until I forget where they are.
+*	[Wireshark/TShark](https://www.wireshark.org/docs/man-pages/tshark.html)
+	* Getting some better statistical analysis and prettier graphs than these provide was a large source of initial inspiration for project.
+	* 'Best-in-class' packet dissectors. TShark will give you any fields you can isolate with Wireshark display filters.  *Desirable*
+*	[TRPR](http://downloads.pf.itd.nrl.navy.mil/docs/proteantools/trpr.html)
+	* Another large source of inspiration.  C/C++ project.  
 *	[pypcap](https://code.google.com/p/pypcap/)
 	* Looks like it interfaces with libpcap directly.  Probably better than piping from tcpdump?
 	* There's more than a few forks of this floating around, so if this is at all where we go, worth figuring out which one to clone
@@ -40,4 +45,5 @@ I can't decide whether or not these projects are relevant or not.  Best to docum
 	* Scapy is a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more.
 		* 'De facto standard' for command-line packet manipulation
 		* That's a lot of features, and it may be difficult to encapsulate it in a sensible manner
+
 	
